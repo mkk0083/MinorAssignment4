@@ -44,8 +44,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "bash.h"
-
 int main(int argc, char const *argv[]) {
    /* code */
    return 0;
