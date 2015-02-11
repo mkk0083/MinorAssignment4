@@ -44,8 +44,14 @@
 #include <stdlib.h>
 #include <string.h>
 
+// globals go here (try to avoid this)
+
+// function prototypes go here
+
+// main goes here
 int main(int argc, char const *argv[]) {
    /* code */
    return 0;
 }
 
+// function definitions go here
