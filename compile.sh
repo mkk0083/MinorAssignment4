@@ -11,7 +11,7 @@ echo 'Compiling the program...';
 if gcc -o minor4 *.c; then
 # runs program2
 echo 'Running the program...';
-./minor4;
+./minor4 test.sh;
 echo 'Done running the program.';
 else
 echo 'Compilation failed';
