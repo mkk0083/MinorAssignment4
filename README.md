@@ -1,6 +1,9 @@
 # MinorAssignment4
 The repo for CSCE 3600 Minor Assignment 4
 
+##TODO
+...
+
 ##Minor Assignment #4 – Converting SuperBash Programs to Bash
 
 In this assignment you will write a C program that takes an advanced  bash (`bash++` ?) program and outputs a standard bash program that has no syntax errors.  You are to complete this assignment in as a group, using your already assigned groups.   You will also submit the assignment as a group.  Make sure to include the names of all group members who worked on the assignment in comments within your C program. **As in the past, only the group submission will be graded.  We will NOT grade both a group submission and any singleton submissions from the same group.**
