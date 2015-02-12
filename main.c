@@ -82,7 +82,7 @@ int main(int argc, char const *argv[]) {
    printf("Elements in the array:\n");
    int storageLength = 0;
    do {
-      printf("storage[%d] = %s\n",storageLength, storage[storageLength]);
+      printf("storage[%d] = %s\n", storageLength, storage[storageLength]);
       ++storageLength;
    } while (storage[storageLength] != '\0');
    // printf("A total of %d items were printed.\n", i);
@@ -98,17 +98,6 @@ int main(int argc, char const *argv[]) {
 }
 
 // function definitions go here
-
-/**
- * This will fill a dynamically allocated array of c-style strings
- * with the contents of the file loaded from argv[1] 
- * @param argc     Number of arguments
- * @param argv     Array of arguments
- * @param dynArray A pointer of type char**
- * @param max      The max amount of characters for each string element in
- *                 the dynamic array.
- * @return  This will return the amount of elements in the dynArray
- */
 
 /**
  * This will return a dynamically allocated array of c-style strings, filled
