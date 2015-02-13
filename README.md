@@ -45,11 +45,11 @@ Again as a "*preprocessor*" your program will not actually change the input file
 
   **In order to make the assignment a bit easier, I will provide some “conventions” for the bash++ files that will be used as test input.   Those conventions are:**
 
-**  1. Any assignment statement (of the form identifier    =    some expression) will start in column 1.   By that I mean there will be no spaces or tabs before the start of the identifier. **
+ **1. Any assignment statement (of the form identifier    =    some expression) will start in column 1.   By that I mean there will be no spaces or tabs before the start of the identifier.**
 
-**  2. Any Unix commands (ls, wc, …) will NOT start in column 1, so there will be spaces before the name of the command.  There is one exception.  Echo may have spaces in front of it, but won’t necessarily have them. **
+ **2. Any Unix commands (ls, wc, …) will NOT start in column 1, so there will be spaces before the name of the command.  There is one exception.  Echo may have spaces in front of it, but won’t necessarily have them.**
 
-**  3. Any bash reserved (or key) words can start anywhere on a line.   Use your creativity (i.e. favorite search engine) to find the list of bash reserved words. **
+ **3. Any bash reserved (or key) words can start anywhere on a line.   Use your creativity (i.e. favorite search engine) to find the list of bash reserved words.**
 
 You will submit your **single C file** (that is your working program) to Blackboard at or before *(newly)* the stated deadline.
 
